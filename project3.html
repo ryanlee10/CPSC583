@@ -62,9 +62,9 @@ var width = 820,
     .range([1, 0.75, 0.50, 0.25])
 
 var nest = d3.nest()
-    .key(function(d) { return d.Year; })
-    .key(function(d) { return d.Month; })
     .key(function(d) { return d.Sector; })
+    .key(function(d) { return d.Community_Name; })
+    .key(function(d) { return d.Category; })
     .rollup(function(d) { return d3.sum(d, function(d) { return d.Crime_Count; }); });
 
 var treemap = d3.treemap()
