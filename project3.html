@@ -38,23 +38,10 @@ body {
 var width = 820,
     height = 820;
 
-// var format = d3.formatLocale({
-//   decimal: ".",
-//   thousands: ",",
-//   grouping: [3],
-//   currency: ["£", ""]
-// }).format("$,d");
-
-
-// var colorDomain = [1500, 1125, 750, 375, 0],
-//     colorRange = ["#001624", "#00568c", "#0099ff", "#7dcdff", "#ebf7ff"];
-
-// var color = d3.scaleLinear()
-//     .domain(colorDomain)
-//     .range(colorRange);
+var legend = ["CENTRE", "EAST", "NORTH", "NORTHEAST", "NORTHWEST", "SOUTH", "SOUTHEAST", "WEST", ""];
 
   var color = d3.scaleOrdinal()
-    .domain(["CENTRE", "EAST", "NORTH", "NORTHEAST", "NORTHWEST", "SOUTH", "SOUTHEAST", "WEST", ""])
+    .domain(legend)
     .range([ "#F94144", "#4d194d", "#F8961E", "#f72585", "#f9c74f", "#90be6d", "#43aa8b", "#4d908e", "#577590", "#277da1"])
 
  var opacity = d3.scaleLinear()
@@ -90,13 +77,12 @@ d3.csv("Community_Crime_Statistics.csv", type, function(error, data) {
       .style("top", function(d) { return d.y0 + "px"; })
       .style("width", function(d) { return d.x1 - d.x0 + "px"; })
       .style("height", function(d) { return d.y1 - d.y0 + "px"; })
-      // .style("fill", function(d) {return color(d.Year)
       .style("background", function(d) { return color(d.parent.parent.value) })
       .style("opacity", function(d){ return opacity(d.value) });
 
   node.append("div")
       .attr("class", "node-label")
-      .text(function(d) { return d.parent.data.key + " " + d.parent.parent.data.key + "\n" + d.data.key; });
+      .text(function(d) { return d.parent.data.key + "\n" + d.data.key; });
 
   node.append("div")
       .attr("class", "node-value")
@@ -107,5 +93,45 @@ function type(d) {
   d.Crime_Count = +d.Crime_Count;
   return d;
 }
+
+// create legend
+var svg = d3.select('body')
+    .append('svg')
+    .attr('width', width + 200)
+    .attr('height', height).append('g')
+    .attr('class', 'legend')
+    .attr('transform', 'translate(' + width + ', ' + 30 + ')');
+
+// legend title
+svg.append('text')
+    .style('font-weight', 'bold')
+    .attr('x', 10)
+    .attr('y', -10)
+    .text('Legend');
+
+
+// create g for each legend item
+var legendItem = svg.selectAll('.legend-item')
+    .data(legend).enter()
+    .append('g')
+    .attr('class', 'legend-item')
+    .attr('transform', function (d, i) {
+        return 'translate(10,' + i * 25 + ')'
+    });
+
+// legend rectangle
+legendItem.append('rect')
+    .attr('width', 20)
+    .attr('height', 20)
+    .style('fill', function (d) {
+        return color(d)
+    });
+
+// legend text
+legendItem.append('text')
+    .attr('x', 25)
+    .attr('y', 15).text(function (d) {
+    return d;
+});
 
 </script>
