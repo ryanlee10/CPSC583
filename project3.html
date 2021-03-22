@@ -40,9 +40,9 @@ var width = 820,
 
 var legend = ["CENTRE", "EAST", "NORTH", "NORTHEAST", "NORTHWEST", "SOUTH", "SOUTHEAST", "WEST", ""];
 
-var color = d3.scaleOrdinal()
-  .domain(legend)
-  .range([ "#F94144", "#4d194d", "#F8961E", "#f72585", "#f9c74f", "#90be6d", "#43aa8b", "#4d908e", "#577590", "#fff"])
+  var color = d3.scaleOrdinal()
+    .domain(legend)
+    .range([ "#F94144", "#4d194d", "#F8961E", "#f72585", "#f9c74f", "#90be6d", "#43aa8b", "#4d908e", "#577590", "#277da1"])
 
  var opacity = d3.scaleLinear()
     .domain([2500, 500, 250, 0])
