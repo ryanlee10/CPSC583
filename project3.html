@@ -77,7 +77,7 @@ d3.csv("Community_Crime_Statistics.csv", type, function(error, data) {
       .style("top", function(d) { return d.y0 + "px"; })
       .style("width", function(d) { return d.x1 - d.x0 + "px"; })
       .style("height", function(d) { return d.y1 - d.y0 + "px"; })
-      .style("background", function(d) { return color(d.parent.parent.value) })
+      .style("background", function(d) { return color(d.parent.parent.data.key) })
       .style("opacity", function(d){ return opacity(d.value) });
 
   node.append("div")
