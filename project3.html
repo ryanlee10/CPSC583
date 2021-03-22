@@ -35,14 +35,14 @@ body {
 <script src="//d3js.org/d3.v4.0.0-alpha.49.min.js"></script>
 <script>
 
-var width = 820,
-    height = 820;
+var width = 1200,
+    height = 800;
 
 var legend = ["CENTRE", "EAST", "NORTH", "NORTHEAST", "NORTHWEST", "SOUTH", "SOUTHEAST", "WEST", ""];
 
   var color = d3.scaleOrdinal()
-    .domain(legend)
-    .range([ "#F94144", "#4d194d", "#F8961E", "#f72585", "#f9c74f", "#90be6d", "#43aa8b", "#4d908e", "#577590", "#277da1"])
+    .domain(["CENTRE", "EAST", "NORTH", "NORTHEAST", "NORTHWEST", "SOUTH", "SOUTHEAST", "WEST", ""])
+    .range([ "#4d194d","#F94144", "#F8961E", "#f72585", "#f9c74f", "#90be6d", "#43aa8b", "#4d908e", "#577590", "#277da1"])
 
  var opacity = d3.scaleLinear()
     .domain([2500, 500, 250, 0])
