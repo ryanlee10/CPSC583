@@ -1,0 +1,2882 @@
+[
+ {
+   "Community_Name": "01C",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "01F",
+   "Resident_Count": "330"
+ },
+ {
+   "Community_Name": "02E",
+   "Resident_Count": "1,230"
+ },
+ {
+   "Community_Name": "03I",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "10A",
+   "Resident_Count": "617"
+ },
+ {
+   "Community_Name": "12A",
+   "Resident_Count": "118"
+ },
+ {
+   "Community_Name": "ABBEYDALE",
+   "Resident_Count": "6,043"
+ },
+ {
+   "Community_Name": "ACADIA",
+   "Resident_Count": "10,660"
+ },
+ {
+   "Community_Name": "ALBERT PARK/RADISSON HEIGHTS",
+   "Resident_Count": "6,745"
+ },
+ {
+   "Community_Name": "ALTADORE",
+   "Resident_Count": "6,795"
+ },
+ {
+   "Community_Name": "ALYTH/BONNYBROOK",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "APPLEWOOD PARK",
+   "Resident_Count": "6,921"
+ },
+ {
+   "Community_Name": "ARBOUR LAKE",
+   "Resident_Count": "10,713"
+ },
+ {
+   "Community_Name": "ASPEN WOODS",
+   "Resident_Count": "9,212"
+ },
+ {
+   "Community_Name": "AUBURN BAY",
+   "Resident_Count": "16,429"
+ },
+ {
+   "Community_Name": "BANFF TRAIL",
+   "Resident_Count": "4,092"
+ },
+ {
+   "Community_Name": "BANKVIEW",
+   "Resident_Count": "5,090"
+ },
+ {
+   "Community_Name": "BEDDINGTON HEIGHTS",
+   "Resident_Count": "11,694"
+ },
+ {
+   "Community_Name": "BELTLINE",
+   "Resident_Count": "23,219"
+ },
+ {
+   "Community_Name": "BOWNESS",
+   "Resident_Count": "10,895"
+ },
+ {
+   "Community_Name": "BRAESIDE",
+   "Resident_Count": "5,960"
+ },
+ {
+   "Community_Name": "BRENTWOOD",
+   "Resident_Count": "7,132"
+ },
+ {
+   "Community_Name": "BRIDGELAND/RIVERSIDE",
+   "Resident_Count": "6,332"
+ },
+ {
+   "Community_Name": "BRIDLEWOOD",
+   "Resident_Count": "12,696"
+ },
+ {
+   "Community_Name": "BURNS INDUSTRIAL",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "CALGARY INTERNATIONAL AIRPORT",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "CAMBRIAN HEIGHTS",
+   "Resident_Count": "2,075"
+ },
+ {
+   "Community_Name": "CANYON MEADOWS",
+   "Resident_Count": "7,553"
+ },
+ {
+   "Community_Name": "CAPITOL HILL",
+   "Resident_Count": "4,459"
+ },
+ {
+   "Community_Name": "CASTLERIDGE",
+   "Resident_Count": "6,181"
+ },
+ {
+   "Community_Name": "CEDARBRAE",
+   "Resident_Count": "6,075"
+ },
+ {
+   "Community_Name": "CHAPARRAL",
+   "Resident_Count": "12,964"
+ },
+ {
+   "Community_Name": "CHARLESWOOD",
+   "Resident_Count": "3,582"
+ },
+ {
+   "Community_Name": "CHINATOWN",
+   "Resident_Count": "2,124"
+ },
+ {
+   "Community_Name": "CHINOOK PARK",
+   "Resident_Count": "1,663"
+ },
+ {
+   "Community_Name": "CHRISTIE PARK",
+   "Resident_Count": "2,148"
+ },
+ {
+   "Community_Name": "CITADEL",
+   "Resident_Count": "10,293"
+ },
+ {
+   "Community_Name": "CITYSCAPE",
+   "Resident_Count": "2,529"
+ },
+ {
+   "Community_Name": "CLIFF BUNGALOW",
+   "Resident_Count": "1,796"
+ },
+ {
+   "Community_Name": "COACH HILL",
+   "Resident_Count": "3,271"
+ },
+ {
+   "Community_Name": "COLLINGWOOD",
+   "Resident_Count": "2,216"
+ },
+ {
+   "Community_Name": "COPPERFIELD",
+   "Resident_Count": "13,017"
+ },
+ {
+   "Community_Name": "CORAL SPRINGS",
+   "Resident_Count": "5,792"
+ },
+ {
+   "Community_Name": "COUGAR RIDGE",
+   "Resident_Count": "7,072"
+ },
+ {
+   "Community_Name": "COUNTRY HILLS VILLAGE",
+   "Resident_Count": "2,596"
+ },
+ {
+   "Community_Name": "COUNTRY HILLS",
+   "Resident_Count": "3,806"
+ },
+ {
+   "Community_Name": "COVENTRY HILLS",
+   "Resident_Count": "17,564"
+ },
+ {
+   "Community_Name": "CRANSTON",
+   "Resident_Count": "18,559"
+ },
+ {
+   "Community_Name": "CRESCENT HEIGHTS",
+   "Resident_Count": "6,197"
+ },
+ {
+   "Community_Name": "CURRIE BARRACKS",
+   "Resident_Count": "857"
+ },
+ {
+   "Community_Name": "DALHOUSIE",
+   "Resident_Count": "8,992"
+ },
+ {
+   "Community_Name": "DEER RIDGE",
+   "Resident_Count": "4,086"
+ },
+ {
+   "Community_Name": "DEERFOOT BUSINESS CENTRE",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "DIAMOND COVE",
+   "Resident_Count": "727"
+ },
+ {
+   "Community_Name": "DISCOVERY RIDGE",
+   "Resident_Count": "4,268"
+ },
+ {
+   "Community_Name": "DOUGLASDALE/GLEN",
+   "Resident_Count": "12,745"
+ },
+ {
+   "Community_Name": "DOVER",
+   "Resident_Count": "10,484"
+ },
+ {
+   "Community_Name": "DOWNTOWN COMMERCIAL CORE",
+   "Resident_Count": "8,477"
+ },
+ {
+   "Community_Name": "DOWNTOWN EAST VILLAGE",
+   "Resident_Count": "3,480"
+ },
+ {
+   "Community_Name": "DOWNTOWN WEST END",
+   "Resident_Count": "2,456"
+ },
+ {
+   "Community_Name": "EAGLE RIDGE",
+   "Resident_Count": "477"
+ },
+ {
+   "Community_Name": "EAST FAIRVIEW INDUSTRIAL",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "EAST SHEPARD INDUSTRIAL",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "EASTFIELD",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "EAU CLAIRE",
+   "Resident_Count": "1,494"
+ },
+ {
+   "Community_Name": "EDGEMONT",
+   "Resident_Count": "15,701"
+ },
+ {
+   "Community_Name": "ELBOW PARK",
+   "Resident_Count": "3,360"
+ },
+ {
+   "Community_Name": "ELBOYA",
+   "Resident_Count": "1,783"
+ },
+ {
+   "Community_Name": "ERIN WOODS",
+   "Resident_Count": "6,974"
+ },
+ {
+   "Community_Name": "ERLTON",
+   "Resident_Count": "1,307"
+ },
+ {
+   "Community_Name": "EVANSTON",
+   "Resident_Count": "15,885"
+ },
+ {
+   "Community_Name": "FAIRVIEW INDUSTRIAL",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "FAIRVIEW",
+   "Resident_Count": "3,686"
+ },
+ {
+   "Community_Name": "FALCONRIDGE",
+   "Resident_Count": "10,352"
+ },
+ {
+   "Community_Name": "FISH CREEK PARK",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "FOOTHILLS",
+   "Resident_Count": "265"
+ },
+ {
+   "Community_Name": "FOREST HEIGHTS",
+   "Resident_Count": "6,406"
+ },
+ {
+   "Community_Name": "FOREST LAWN INDUSTRIAL",
+   "Resident_Count": "105"
+ },
+ {
+   "Community_Name": "FOREST LAWN",
+   "Resident_Count": "7,772"
+ },
+ {
+   "Community_Name": "FRANKLIN",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "GLAMORGAN",
+   "Resident_Count": "6,385"
+ },
+ {
+   "Community_Name": "GLENBROOK",
+   "Resident_Count": "7,209"
+ },
+ {
+   "Community_Name": "GLENDALE",
+   "Resident_Count": "2,768"
+ },
+ {
+   "Community_Name": "GLENDEER BUSINESS PARK",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "GLENMORE PARK",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "GREAT PLAINS",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "GREENVIEW INDUSTRIAL PARK",
+   "Resident_Count": "146"
+ },
+ {
+   "Community_Name": "HAMPTONS",
+   "Resident_Count": "7,567"
+ },
+ {
+   "Community_Name": "HARVEST HILLS",
+   "Resident_Count": "7,302"
+ },
+ {
+   "Community_Name": "HAWKWOOD",
+   "Resident_Count": "9,512"
+ },
+ {
+   "Community_Name": "HAYSBORO",
+   "Resident_Count": "7,076"
+ },
+ {
+   "Community_Name": "HIDDEN VALLEY",
+   "Resident_Count": "11,708"
+ },
+ {
+   "Community_Name": "HIGHFIELD",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "HIGHLAND PARK",
+   "Resident_Count": "3,998"
+ },
+ {
+   "Community_Name": "HIGHWOOD",
+   "Resident_Count": "2,233"
+ },
+ {
+   "Community_Name": "HILLHURST",
+   "Resident_Count": "6,648"
+ },
+ {
+   "Community_Name": "HORIZON",
+   "Resident_Count": "27"
+ },
+ {
+   "Community_Name": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+   "Resident_Count": "3,016"
+ },
+ {
+   "Community_Name": "HUNTINGTON HILLS",
+   "Resident_Count": "13,154"
+ },
+ {
+   "Community_Name": "INGLEWOOD",
+   "Resident_Count": "4,008"
+ },
+ {
+   "Community_Name": "KELVIN GROVE",
+   "Resident_Count": "2,311"
+ },
+ {
+   "Community_Name": "KILLARNEY/GLENGARRY",
+   "Resident_Count": "7,423"
+ },
+ {
+   "Community_Name": "KINCORA",
+   "Resident_Count": "6,363"
+ },
+ {
+   "Community_Name": "KINGSLAND",
+   "Resident_Count": "4,667"
+ },
+ {
+   "Community_Name": "LAKE BONAVISTA",
+   "Resident_Count": "10,419"
+ },
+ {
+   "Community_Name": "LAKEVIEW",
+   "Resident_Count": "5,535"
+ },
+ {
+   "Community_Name": "LEGACY",
+   "Resident_Count": "3,919"
+ },
+ {
+   "Community_Name": "LINCOLN PARK",
+   "Resident_Count": "2,441"
+ },
+ {
+   "Community_Name": "LOWER MOUNT ROYAL",
+   "Resident_Count": "3,239"
+ },
+ {
+   "Community_Name": "MACEWAN GLEN",
+   "Resident_Count": "4,930"
+ },
+ {
+   "Community_Name": "MAHOGANY",
+   "Resident_Count": "8,444"
+ },
+ {
+   "Community_Name": "MANCHESTER INDUSTRIAL",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "MANCHESTER",
+   "Resident_Count": "1,052"
+ },
+ {
+   "Community_Name": "MAPLE RIDGE",
+   "Resident_Count": "1,937"
+ },
+ {
+   "Community_Name": "MARLBOROUGH PARK",
+   "Resident_Count": "8,673"
+ },
+ {
+   "Community_Name": "MARLBOROUGH",
+   "Resident_Count": "9,226"
+ },
+ {
+   "Community_Name": "MARTINDALE",
+   "Resident_Count": "14,708"
+ },
+ {
+   "Community_Name": "MAYLAND HEIGHTS",
+   "Resident_Count": "5,808"
+ },
+ {
+   "Community_Name": "MAYLAND",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "MCCALL",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "MCKENZIE LAKE",
+   "Resident_Count": "13,616"
+ },
+ {
+   "Community_Name": "MCKENZIE TOWNE",
+   "Resident_Count": "18,106"
+ },
+ {
+   "Community_Name": "MEADOWLARK PARK",
+   "Resident_Count": "665"
+ },
+ {
+   "Community_Name": "MERIDIAN",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "MIDNAPORE",
+   "Resident_Count": "7,320"
+ },
+ {
+   "Community_Name": "MILLRISE",
+   "Resident_Count": "6,990"
+ },
+ {
+   "Community_Name": "MISSION",
+   "Resident_Count": "4,583"
+ },
+ {
+   "Community_Name": "MONTEREY PARK",
+   "Resident_Count": "10,670"
+ },
+ {
+   "Community_Name": "MONTGOMERY",
+   "Resident_Count": "4,353"
+ },
+ {
+   "Community_Name": "MOUNT PLEASANT",
+   "Resident_Count": "5,811"
+ },
+ {
+   "Community_Name": "NEW BRIGHTON",
+   "Resident_Count": "12,548"
+ },
+ {
+   "Community_Name": "NOLAN HILL",
+   "Resident_Count": "5,312"
+ },
+ {
+   "Community_Name": "NORTH AIRWAYS",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "NORTH GLENMORE PARK",
+   "Resident_Count": "2,396"
+ },
+ {
+   "Community_Name": "NORTH HAVEN UPPER",
+   "Resident_Count": "620"
+ },
+ {
+   "Community_Name": "NORTH HAVEN",
+   "Resident_Count": "2,376"
+ },
+ {
+   "Community_Name": "NOSE HILL PARK",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "OAKRIDGE",
+   "Resident_Count": "5,667"
+ },
+ {
+   "Community_Name": "OGDEN",
+   "Resident_Count": "8,558"
+ },
+ {
+   "Community_Name": "PALLISER",
+   "Resident_Count": "3,484"
+ },
+ {
+   "Community_Name": "PANORAMA HILLS",
+   "Resident_Count": "25,925"
+ },
+ {
+   "Community_Name": "PARKDALE",
+   "Resident_Count": "2,565"
+ },
+ {
+   "Community_Name": "PARKHILL",
+   "Resident_Count": "1,690"
+ },
+ {
+   "Community_Name": "PARKLAND",
+   "Resident_Count": "3,685"
+ },
+ {
+   "Community_Name": "PATTERSON",
+   "Resident_Count": "4,128"
+ },
+ {
+   "Community_Name": "PEGASUS",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "PENBROOKE MEADOWS",
+   "Resident_Count": "8,324"
+ },
+ {
+   "Community_Name": "PINERIDGE",
+   "Resident_Count": "9,741"
+ },
+ {
+   "Community_Name": "POINT MCKAY",
+   "Resident_Count": "1,354"
+ },
+ {
+   "Community_Name": "QUEENSLAND",
+   "Resident_Count": "4,787"
+ },
+ {
+   "Community_Name": "RAMSAY",
+   "Resident_Count": "2,110"
+ },
+ {
+   "Community_Name": "RANCHLANDS",
+   "Resident_Count": "7,629"
+ },
+ {
+   "Community_Name": "RED CARPET",
+   "Resident_Count": "1,605"
+ },
+ {
+   "Community_Name": "REDSTONE",
+   "Resident_Count": "3,392"
+ },
+ {
+   "Community_Name": "RENFREW",
+   "Resident_Count": "6,397"
+ },
+ {
+   "Community_Name": "RICHMOND",
+   "Resident_Count": "4,781"
+ },
+ {
+   "Community_Name": "RIVERBEND",
+   "Resident_Count": "9,338"
+ },
+ {
+   "Community_Name": "ROCKY RIDGE",
+   "Resident_Count": "8,381"
+ },
+ {
+   "Community_Name": "ROSEDALE",
+   "Resident_Count": "1,536"
+ },
+ {
+   "Community_Name": "ROSEMONT",
+   "Resident_Count": "1,234"
+ },
+ {
+   "Community_Name": "ROSSCARROCK",
+   "Resident_Count": "3,527"
+ },
+ {
+   "Community_Name": "ROXBORO",
+   "Resident_Count": "390"
+ },
+ {
+   "Community_Name": "ROYAL OAK",
+   "Resident_Count": "11,682"
+ },
+ {
+   "Community_Name": "ROYAL VISTA",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "RUNDLE",
+   "Resident_Count": "11,558"
+ },
+ {
+   "Community_Name": "RUTLAND PARK",
+   "Resident_Count": "2,370"
+ },
+ {
+   "Community_Name": "SADDLE RIDGE INDUSTRIAL",
+   "Resident_Count": "20"
+ },
+ {
+   "Community_Name": "SADDLE RIDGE",
+   "Resident_Count": "19,911"
+ },
+ {
+   "Community_Name": "SAGE HILL",
+   "Resident_Count": "6,083"
+ },
+ {
+   "Community_Name": "SANDSTONE VALLEY",
+   "Resident_Count": "5,965"
+ },
+ {
+   "Community_Name": "SCARBORO",
+   "Resident_Count": "915"
+ },
+ {
+   "Community_Name": "SCARBORO/ SUNALTA WEST",
+   "Resident_Count": "406"
+ },
+ {
+   "Community_Name": "SCENIC ACRES",
+   "Resident_Count": "8,251"
+ },
+ {
+   "Community_Name": "SECTION 23",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "SETON",
+   "Resident_Count": "350"
+ },
+ {
+   "Community_Name": "SHAGANAPPI",
+   "Resident_Count": "1,693"
+ },
+ {
+   "Community_Name": "SHAWNEE SLOPES",
+   "Resident_Count": "1,625"
+ },
+ {
+   "Community_Name": "SHAWNESSY",
+   "Resident_Count": "9,448"
+ },
+ {
+   "Community_Name": "SHEPARD INDUSTRIAL",
+   "Resident_Count": "248"
+ },
+ {
+   "Community_Name": "SIGNAL HILL",
+   "Resident_Count": "13,533"
+ },
+ {
+   "Community_Name": "SILVER SPRINGS",
+   "Resident_Count": "8,774"
+ },
+ {
+   "Community_Name": "SILVERADO",
+   "Resident_Count": "6,907"
+ },
+ {
+   "Community_Name": "SKYLINE WEST",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "SKYVIEW RANCH",
+   "Resident_Count": "10,043"
+ },
+ {
+   "Community_Name": "SOMERSET",
+   "Resident_Count": "8,546"
+ },
+ {
+   "Community_Name": "SOUTH AIRWAYS",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "SOUTH CALGARY",
+   "Resident_Count": "4,038"
+ },
+ {
+   "Community_Name": "SOUTH FOOTHILLS",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "SOUTHVIEW",
+   "Resident_Count": "1,841"
+ },
+ {
+   "Community_Name": "SOUTHWOOD",
+   "Resident_Count": "6,214"
+ },
+ {
+   "Community_Name": "SPRINGBANK HILL",
+   "Resident_Count": "9,985"
+ },
+ {
+   "Community_Name": "SPRUCE CLIFF",
+   "Resident_Count": "4,562"
+ },
+ {
+   "Community_Name": "ST. ANDREWS HEIGHTS",
+   "Resident_Count": "1,717"
+ },
+ {
+   "Community_Name": "STARFIELD",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "STONEY 1",
+   "Resident_Count": "13"
+ },
+ {
+   "Community_Name": "STONEY 2",
+   "Resident_Count": "26"
+ },
+ {
+   "Community_Name": "STONEY 4",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "STRATHCONA PARK",
+   "Resident_Count": "7,043"
+ },
+ {
+   "Community_Name": "SUNALTA",
+   "Resident_Count": "3,192"
+ },
+ {
+   "Community_Name": "SUNDANCE",
+   "Resident_Count": "9,994"
+ },
+ {
+   "Community_Name": "SUNNYSIDE",
+   "Resident_Count": "4,206"
+ },
+ {
+   "Community_Name": "SUNRIDGE",
+   "Resident_Count": "46"
+ },
+ {
+   "Community_Name": "TARADALE",
+   "Resident_Count": "18,925"
+ },
+ {
+   "Community_Name": "TEMPLE",
+   "Resident_Count": "11,162"
+ },
+ {
+   "Community_Name": "THORNCLIFFE",
+   "Resident_Count": "8,474"
+ },
+ {
+   "Community_Name": "TUSCANY",
+   "Resident_Count": "19,659"
+ },
+ {
+   "Community_Name": "TUXEDO PARK",
+   "Resident_Count": "4,983"
+ },
+ {
+   "Community_Name": "UNIVERSITY HEIGHTS",
+   "Resident_Count": "2,751"
+ },
+ {
+   "Community_Name": "UNIVERSITY OF CALGARY",
+   "Resident_Count": "2,057"
+ },
+ {
+   "Community_Name": "UPPER MOUNT ROYAL",
+   "Resident_Count": "2,467"
+ },
+ {
+   "Community_Name": "VALLEY RIDGE",
+   "Resident_Count": "5,622"
+ },
+ {
+   "Community_Name": "VALLEYFIELD",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "VARSITY",
+   "Resident_Count": "12,525"
+ },
+ {
+   "Community_Name": "VISTA HEIGHTS",
+   "Resident_Count": "2,302"
+ },
+ {
+   "Community_Name": "WALDEN",
+   "Resident_Count": "4,669"
+ },
+ {
+   "Community_Name": "WEST HILLHURST",
+   "Resident_Count": "6,338"
+ },
+ {
+   "Community_Name": "WEST SPRINGS",
+   "Resident_Count": "10,031"
+ },
+ {
+   "Community_Name": "WESTWINDS",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "WHITEHORN",
+   "Resident_Count": "11,985"
+ },
+ {
+   "Community_Name": "WILDWOOD",
+   "Resident_Count": "2,629"
+ },
+ {
+   "Community_Name": "WILLOW PARK",
+   "Resident_Count": "5,356"
+ },
+ {
+   "Community_Name": "WINDSOR PARK",
+   "Resident_Count": "4,270"
+ },
+ {
+   "Community_Name": "WINSTON HEIGHTS/MOUNTVIEW",
+   "Resident_Count": "3,835"
+ },
+ {
+   "Community_Name": "WOODBINE",
+   "Resident_Count": "8,959"
+ },
+ {
+   "Community_Name": "02E",
+   "Resident_Count": "1,230"
+ },
+ {
+   "Community_Name": "02F",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "03I",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "03W",
+   "Resident_Count": "34"
+ },
+ {
+   "Community_Name": "05C",
+   "Resident_Count": "20"
+ },
+ {
+   "Community_Name": "10B",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "12A",
+   "Resident_Count": "118"
+ },
+ {
+   "Community_Name": "12B",
+   "Resident_Count": "22"
+ },
+ {
+   "Community_Name": "AUBURN BAY",
+   "Resident_Count": "16,429"
+ },
+ {
+   "Community_Name": "BANKVIEW",
+   "Resident_Count": "5,090"
+ },
+ {
+   "Community_Name": "CAMBRIAN HEIGHTS",
+   "Resident_Count": "2,075"
+ },
+ {
+   "Community_Name": "DEER RIDGE",
+   "Resident_Count": "4,086"
+ },
+ {
+   "Community_Name": "EVANSTON",
+   "Resident_Count": "15,885"
+ },
+ {
+   "Community_Name": "GLENMORE PARK",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "GREENVIEW INDUSTRIAL PARK",
+   "Resident_Count": "146"
+ },
+ {
+   "Community_Name": "GREENVIEW",
+   "Resident_Count": "2,036"
+ },
+ {
+   "Community_Name": "LINCOLN PARK",
+   "Resident_Count": "2,441"
+ },
+ {
+   "Community_Name": "POINT MCKAY",
+   "Resident_Count": "1,354"
+ },
+ {
+   "Community_Name": "RICHMOND",
+   "Resident_Count": "4,781"
+ },
+ {
+   "Community_Name": "SHEPARD INDUSTRIAL",
+   "Resident_Count": "248"
+ },
+ {
+   "Community_Name": "SILVERADO",
+   "Resident_Count": "6,907"
+ },
+ {
+   "Community_Name": "WEST SPRINGS",
+   "Resident_Count": "10,031"
+ },
+ {
+   "Community_Name": "WOODLANDS",
+   "Resident_Count": "6,111"
+ },
+ {
+   "Community_Name": "12A",
+   "Resident_Count": "118"
+ },
+ {
+   "Community_Name": "BRIDLEWOOD",
+   "Resident_Count": "12,696"
+ },
+ {
+   "Community_Name": "MARTINDALE",
+   "Resident_Count": "14,708"
+ },
+ {
+   "Community_Name": "PUMP HILL",
+   "Resident_Count": "1,649"
+ },
+ {
+   "Community_Name": "STARFIELD",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "02E",
+   "Resident_Count": "1,230"
+ },
+ {
+   "Community_Name": "05C",
+   "Resident_Count": "20"
+ },
+ {
+   "Community_Name": "12A",
+   "Resident_Count": "118"
+ },
+ {
+   "Community_Name": "OAKRIDGE",
+   "Resident_Count": "5,667"
+ },
+ {
+   "Community_Name": "02E",
+   "Resident_Count": "1,230"
+ },
+ {
+   "Community_Name": "WOODLANDS",
+   "Resident_Count": "6,111"
+ },
+ {
+   "Community_Name": "05C",
+   "Resident_Count": "20"
+ },
+ {
+   "Community_Name": "12J",
+   "Resident_Count": "56"
+ },
+ {
+   "Community_Name": "BEDDINGTON HEIGHTS",
+   "Resident_Count": "11,694"
+ },
+ {
+   "Community_Name": "BELTLINE",
+   "Resident_Count": "23,219"
+ },
+ {
+   "Community_Name": "CRESCENT HEIGHTS",
+   "Resident_Count": "6,197"
+ },
+ {
+   "Community_Name": "WOODLANDS",
+   "Resident_Count": "6,111"
+ },
+ {
+   "Community_Name": "STONEY 2",
+   "Resident_Count": "26"
+ },
+ {
+   "Community_Name": "03I",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "WOODLANDS",
+   "Resident_Count": "6,111"
+ },
+ {
+   "Community_Name": "09K",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "12A",
+   "Resident_Count": "114"
+ },
+ {
+   "Community_Name": "12C",
+   "Resident_Count": "111"
+ },
+ {
+   "Community_Name": "12J",
+   "Resident_Count": "62"
+ },
+ {
+   "Community_Name": "ABBEYDALE",
+   "Resident_Count": "5,986"
+ },
+ {
+   "Community_Name": "ACADIA",
+   "Resident_Count": "10,584"
+ },
+ {
+   "Community_Name": "ALBERT PARK/RADISSON HEIGHTS",
+   "Resident_Count": "6,761"
+ },
+ {
+   "Community_Name": "ALYTH/BONNYBROOK",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "APPLEWOOD PARK",
+   "Resident_Count": "6,868"
+ },
+ {
+   "Community_Name": "ARBOUR LAKE",
+   "Resident_Count": "10,636"
+ },
+ {
+   "Community_Name": "ASPEN WOODS",
+   "Resident_Count": "9,421"
+ },
+ {
+   "Community_Name": "AURORA BUSINESS PARK",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "BANFF TRAIL",
+   "Resident_Count": "4,165"
+ },
+ {
+   "Community_Name": "BANKVIEW",
+   "Resident_Count": "5,211"
+ },
+ {
+   "Community_Name": "BEDDINGTON HEIGHTS",
+   "Resident_Count": "11,478"
+ },
+ {
+   "Community_Name": "BEL-AIRE",
+   "Resident_Count": "376"
+ },
+ {
+   "Community_Name": "BELTLINE",
+   "Resident_Count": "24,887"
+ },
+ {
+   "Community_Name": "BONAVISTA DOWNS",
+   "Resident_Count": "919"
+ },
+ {
+   "Community_Name": "BOWNESS",
+   "Resident_Count": "11,065"
+ },
+ {
+   "Community_Name": "BRAESIDE",
+   "Resident_Count": "5,893"
+ },
+ {
+   "Community_Name": "BRENTWOOD",
+   "Resident_Count": "7,346"
+ },
+ {
+   "Community_Name": "BRIDGELAND/RIVERSIDE",
+   "Resident_Count": "6,529"
+ },
+ {
+   "Community_Name": "BRIDLEWOOD",
+   "Resident_Count": "12,708"
+ },
+ {
+   "Community_Name": "CALGARY INTERNATIONAL AIRPORT",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "CANADA OLYMPIC PARK",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "CANYON MEADOWS",
+   "Resident_Count": "7,509"
+ },
+ {
+   "Community_Name": "CAPITOL HILL",
+   "Resident_Count": "4,688"
+ },
+ {
+   "Community_Name": "CASTLERIDGE",
+   "Resident_Count": "6,273"
+ },
+ {
+   "Community_Name": "CEDARBRAE",
+   "Resident_Count": "6,019"
+ },
+ {
+   "Community_Name": "CHAPARRAL",
+   "Resident_Count": "12,717"
+ },
+ {
+   "Community_Name": "CHARLESWOOD",
+   "Resident_Count": "3,584"
+ },
+ {
+   "Community_Name": "CHINATOWN",
+   "Resident_Count": "2,176"
+ },
+ {
+   "Community_Name": "CHINOOK PARK",
+   "Resident_Count": "1,651"
+ },
+ {
+   "Community_Name": "CHRISTIE PARK",
+   "Resident_Count": "2,133"
+ },
+ {
+   "Community_Name": "CITADEL",
+   "Resident_Count": "10,209"
+ },
+ {
+   "Community_Name": "CITYSCAPE",
+   "Resident_Count": "2,811"
+ },
+ {
+   "Community_Name": "CLIFF BUNGALOW",
+   "Resident_Count": "1,921"
+ },
+ {
+   "Community_Name": "COACH HILL",
+   "Resident_Count": "3,215"
+ },
+ {
+   "Community_Name": "COLLINGWOOD",
+   "Resident_Count": "2,224"
+ },
+ {
+   "Community_Name": "COPPERFIELD",
+   "Resident_Count": "13,498"
+ },
+ {
+   "Community_Name": "CORAL SPRINGS",
+   "Resident_Count": "5,858"
+ },
+ {
+   "Community_Name": "COUGAR RIDGE",
+   "Resident_Count": "7,030"
+ },
+ {
+   "Community_Name": "COUNTRY HILLS VILLAGE",
+   "Resident_Count": "2,589"
+ },
+ {
+   "Community_Name": "COUNTRY HILLS",
+   "Resident_Count": "3,779"
+ },
+ {
+   "Community_Name": "COVENTRY HILLS",
+   "Resident_Count": "17,527"
+ },
+ {
+   "Community_Name": "CRANSTON",
+   "Resident_Count": "18,980"
+ },
+ {
+   "Community_Name": "CRESCENT HEIGHTS",
+   "Resident_Count": "6,598"
+ },
+ {
+   "Community_Name": "CRESTMONT",
+   "Resident_Count": "1,514"
+ },
+ {
+   "Community_Name": "DALHOUSIE",
+   "Resident_Count": "8,885"
+ },
+ {
+   "Community_Name": "DEER RIDGE",
+   "Resident_Count": "4,042"
+ },
+ {
+   "Community_Name": "DEERFOOT BUSINESS CENTRE",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "DIAMOND COVE",
+   "Resident_Count": "709"
+ },
+ {
+   "Community_Name": "DISCOVERY RIDGE",
+   "Resident_Count": "4,211"
+ },
+ {
+   "Community_Name": "DOUGLASDALE/GLEN",
+   "Resident_Count": "12,769"
+ },
+ {
+   "Community_Name": "DOVER",
+   "Resident_Count": "10,514"
+ },
+ {
+   "Community_Name": "DOWNTOWN COMMERCIAL CORE",
+   "Resident_Count": "8,464"
+ },
+ {
+   "Community_Name": "FOREST LAWN INDUSTRIAL",
+   "Resident_Count": "105"
+ },
+ {
+   "Community_Name": "DOWNTOWN WEST END",
+   "Resident_Count": "2,757"
+ },
+ {
+   "Community_Name": "EASTFIELD",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "EAU CLAIRE",
+   "Resident_Count": "1,665"
+ },
+ {
+   "Community_Name": "EDGEMONT",
+   "Resident_Count": "15,442"
+ },
+ {
+   "Community_Name": "ELBOW PARK",
+   "Resident_Count": "3,287"
+ },
+ {
+   "Community_Name": "ELBOYA",
+   "Resident_Count": "1,773"
+ },
+ {
+   "Community_Name": "ERIN WOODS",
+   "Resident_Count": "6,850"
+ },
+ {
+   "Community_Name": "ERLTON",
+   "Resident_Count": "1,303"
+ },
+ {
+   "Community_Name": "EVANSTON",
+   "Resident_Count": "17,251"
+ },
+ {
+   "Community_Name": "FAIRVIEW INDUSTRIAL",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "FAIRVIEW",
+   "Resident_Count": "3,708"
+ },
+ {
+   "Community_Name": "FISH CREEK PARK",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "FOOTHILLS",
+   "Resident_Count": "353"
+ },
+ {
+   "Community_Name": "FOREST HEIGHTS",
+   "Resident_Count": "6,422"
+ },
+ {
+   "Community_Name": "FOREST LAWN INDUSTRIAL",
+   "Resident_Count": "110"
+ },
+ {
+   "Community_Name": "FRANKLIN",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "GLAMORGAN",
+   "Resident_Count": "6,410"
+ },
+ {
+   "Community_Name": "GLENBROOK",
+   "Resident_Count": "7,328"
+ },
+ {
+   "Community_Name": "GREENVIEW INDUSTRIAL PARK",
+   "Resident_Count": "146"
+ },
+ {
+   "Community_Name": "GREENVIEW",
+   "Resident_Count": "1,999"
+ },
+ {
+   "Community_Name": "HAMPTONS",
+   "Resident_Count": "7,465"
+ },
+ {
+   "Community_Name": "HARVEST HILLS",
+   "Resident_Count": "7,418"
+ },
+ {
+   "Community_Name": "HAWKWOOD",
+   "Resident_Count": "9,349"
+ },
+ {
+   "Community_Name": "HAYSBORO",
+   "Resident_Count": "7,166"
+ },
+ {
+   "Community_Name": "HIGHFIELD",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "HIGHLAND PARK",
+   "Resident_Count": "4,191"
+ },
+ {
+   "Community_Name": "HIGHWOOD",
+   "Resident_Count": "2,262"
+ },
+ {
+   "Community_Name": "HILLHURST",
+   "Resident_Count": "6,616"
+ },
+ {
+   "Community_Name": "HORIZON",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+   "Resident_Count": "2,971"
+ },
+ {
+   "Community_Name": "HUNTINGTON HILLS",
+   "Resident_Count": "13,409"
+ },
+ {
+   "Community_Name": "INGLEWOOD",
+   "Resident_Count": "4,072"
+ },
+ {
+   "Community_Name": "KELVIN GROVE",
+   "Resident_Count": "2,362"
+ },
+ {
+   "Community_Name": "KILLARNEY/GLENGARRY",
+   "Resident_Count": "7,530"
+ },
+ {
+   "Community_Name": "KINCORA",
+   "Resident_Count": "6,460"
+ },
+ {
+   "Community_Name": "KINGSLAND",
+   "Resident_Count": "4,645"
+ },
+ {
+   "Community_Name": "LAKE BONAVISTA",
+   "Resident_Count": "10,292"
+ },
+ {
+   "Community_Name": "LAKEVIEW",
+   "Resident_Count": "5,420"
+ },
+ {
+   "Community_Name": "LEGACY",
+   "Resident_Count": "5,304"
+ },
+ {
+   "Community_Name": "LINCOLN PARK",
+   "Resident_Count": "2,400"
+ },
+ {
+   "Community_Name": "LIVINGSTON",
+   "Resident_Count": "704"
+ },
+ {
+   "Community_Name": "LOWER MOUNT ROYAL",
+   "Resident_Count": "3,449"
+ },
+ {
+   "Community_Name": "MACEWAN GLEN",
+   "Resident_Count": "4,811"
+ },
+ {
+   "Community_Name": "MANCHESTER INDUSTRIAL",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "MANCHESTER",
+   "Resident_Count": "998"
+ },
+ {
+   "Community_Name": "MAPLE RIDGE",
+   "Resident_Count": "1,878"
+ },
+ {
+   "Community_Name": "MARLBOROUGH PARK",
+   "Resident_Count": "8,670"
+ },
+ {
+   "Community_Name": "MARLBOROUGH",
+   "Resident_Count": "9,049"
+ },
+ {
+   "Community_Name": "MARTINDALE",
+   "Resident_Count": "14,905"
+ },
+ {
+   "Community_Name": "MCCALL",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "MCKENZIE LAKE",
+   "Resident_Count": "13,438"
+ },
+ {
+   "Community_Name": "MCKENZIE TOWNE",
+   "Resident_Count": "18,186"
+ },
+ {
+   "Community_Name": "MERIDIAN",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "MIDNAPORE",
+   "Resident_Count": "7,310"
+ },
+ {
+   "Community_Name": "MILLRISE",
+   "Resident_Count": "6,848"
+ },
+ {
+   "Community_Name": "MISSION",
+   "Resident_Count": "4,673"
+ },
+ {
+   "Community_Name": "MONTEREY PARK",
+   "Resident_Count": "10,659"
+ },
+ {
+   "Community_Name": "MONTGOMERY",
+   "Resident_Count": "4,467"
+ },
+ {
+   "Community_Name": "MOUNT PLEASANT",
+   "Resident_Count": "6,001"
+ },
+ {
+   "Community_Name": "NEW BRIGHTON",
+   "Resident_Count": "12,934"
+ },
+ {
+   "Community_Name": "NORTH AIRWAYS",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "NOSE HILL PARK",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "OAKRIDGE",
+   "Resident_Count": "5,613"
+ },
+ {
+   "Community_Name": "OGDEN",
+   "Resident_Count": "8,309"
+ },
+ {
+   "Community_Name": "PALLISER",
+   "Resident_Count": "3,400"
+ },
+ {
+   "Community_Name": "PANORAMA HILLS",
+   "Resident_Count": "25,861"
+ },
+ {
+   "Community_Name": "PARKDALE",
+   "Resident_Count": "2,602"
+ },
+ {
+   "Community_Name": "PARKHILL",
+   "Resident_Count": "1,693"
+ },
+ {
+   "Community_Name": "PEGASUS",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "PENBROOKE MEADOWS",
+   "Resident_Count": "8,399"
+ },
+ {
+   "Community_Name": "PINERIDGE",
+   "Resident_Count": "9,822"
+ },
+ {
+   "Community_Name": "POINT MCKAY",
+   "Resident_Count": "1,372"
+ },
+ {
+   "Community_Name": "QUEENSLAND",
+   "Resident_Count": "4,683"
+ },
+ {
+   "Community_Name": "RANCHLANDS",
+   "Resident_Count": "7,566"
+ },
+ {
+   "Community_Name": "RENFREW",
+   "Resident_Count": "6,524"
+ },
+ {
+   "Community_Name": "RICHMOND",
+   "Resident_Count": "4,882"
+ },
+ {
+   "Community_Name": "RIDEAU PARK",
+   "Resident_Count": "607"
+ },
+ {
+   "Community_Name": "RIVERBEND",
+   "Resident_Count": "9,248"
+ },
+ {
+   "Community_Name": "ROCKY RIDGE",
+   "Resident_Count": "8,284"
+ },
+ {
+   "Community_Name": "ROSEDALE",
+   "Resident_Count": "1,558"
+ },
+ {
+   "Community_Name": "ROSEMONT",
+   "Resident_Count": "1,200"
+ },
+ {
+   "Community_Name": "ROSSCARROCK",
+   "Resident_Count": "3,613"
+ },
+ {
+   "Community_Name": "ROXBORO",
+   "Resident_Count": "396"
+ },
+ {
+   "Community_Name": "ROYAL VISTA",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "RUNDLE",
+   "Resident_Count": "11,585"
+ },
+ {
+   "Community_Name": "RUTLAND PARK",
+   "Resident_Count": "2,303"
+ },
+ {
+   "Community_Name": "SADDLE RIDGE INDUSTRIAL",
+   "Resident_Count": "44"
+ },
+ {
+   "Community_Name": "SADDLE RIDGE",
+   "Resident_Count": "21,567"
+ },
+ {
+   "Community_Name": "SAGE HILL",
+   "Resident_Count": "7,219"
+ },
+ {
+   "Community_Name": "SANDSTONE VALLEY",
+   "Resident_Count": "5,904"
+ },
+ {
+   "Community_Name": "SCARBORO/ SUNALTA WEST",
+   "Resident_Count": "396"
+ },
+ {
+   "Community_Name": "SECTION 23",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "SETON",
+   "Resident_Count": "325"
+ },
+ {
+   "Community_Name": "SHAGANAPPI",
+   "Resident_Count": "1,580"
+ },
+ {
+   "Community_Name": "SHAWNEE SLOPES",
+   "Resident_Count": "1,608"
+ },
+ {
+   "Community_Name": "SHAWNESSY",
+   "Resident_Count": "9,352"
+ },
+ {
+   "Community_Name": "SHEPARD INDUSTRIAL",
+   "Resident_Count": "235"
+ },
+ {
+   "Community_Name": "SHERWOOD",
+   "Resident_Count": "5,864"
+ },
+ {
+   "Community_Name": "SIGNAL HILL",
+   "Resident_Count": "13,488"
+ },
+ {
+   "Community_Name": "SILVER SPRINGS",
+   "Resident_Count": "8,642"
+ },
+ {
+   "Community_Name": "SKYLINE WEST",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "SKYVIEW RANCH",
+   "Resident_Count": "11,168"
+ },
+ {
+   "Community_Name": "SOUTH AIRWAYS",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "SOUTH FOOTHILLS",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "SOUTHVIEW",
+   "Resident_Count": "1,858"
+ },
+ {
+   "Community_Name": "SOUTHWOOD",
+   "Resident_Count": "6,141"
+ },
+ {
+   "Community_Name": "SPRINGBANK HILL",
+   "Resident_Count": "10,052"
+ },
+ {
+   "Community_Name": "SPRUCE CLIFF",
+   "Resident_Count": "4,749"
+ },
+ {
+   "Community_Name": "STARFIELD",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "STONEY 1",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "STONEY 2",
+   "Resident_Count": "14"
+ },
+ {
+   "Community_Name": "STRATHCONA PARK",
+   "Resident_Count": "6,867"
+ },
+ {
+   "Community_Name": "SUNALTA",
+   "Resident_Count": "3,268"
+ },
+ {
+   "Community_Name": "SUNDANCE",
+   "Resident_Count": "9,915"
+ },
+ {
+   "Community_Name": "SUNNYSIDE",
+   "Resident_Count": "4,210"
+ },
+ {
+   "Community_Name": "SUNRIDGE",
+   "Resident_Count": "20"
+ },
+ {
+   "Community_Name": "TARADALE",
+   "Resident_Count": "18,929"
+ },
+ {
+   "Community_Name": "TEMPLE",
+   "Resident_Count": "11,025"
+ },
+ {
+   "Community_Name": "THORNCLIFFE",
+   "Resident_Count": "8,849"
+ },
+ {
+   "Community_Name": "TUSCANY",
+   "Resident_Count": "19,723"
+ },
+ {
+   "Community_Name": "TUXEDO PARK",
+   "Resident_Count": "5,165"
+ },
+ {
+   "Community_Name": "UNIVERSITY HEIGHTS",
+   "Resident_Count": "2,873"
+ },
+ {
+   "Community_Name": "UNIVERSITY OF CALGARY",
+   "Resident_Count": "2,431"
+ },
+ {
+   "Community_Name": "UPPER MOUNT ROYAL",
+   "Resident_Count": "2,455"
+ },
+ {
+   "Community_Name": "VALLEYFIELD",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "VARSITY",
+   "Resident_Count": "12,691"
+ },
+ {
+   "Community_Name": "VISTA HEIGHTS",
+   "Resident_Count": "2,321"
+ },
+ {
+   "Community_Name": "WALDEN",
+   "Resident_Count": "5,619"
+ },
+ {
+   "Community_Name": "WEST HILLHURST",
+   "Resident_Count": "6,507"
+ },
+ {
+   "Community_Name": "WEST SPRINGS",
+   "Resident_Count": "10,495"
+ },
+ {
+   "Community_Name": "WESTWINDS",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "WHITEHORN",
+   "Resident_Count": "11,955"
+ },
+ {
+   "Community_Name": "12A",
+   "Resident_Count": "114"
+ },
+ {
+   "Community_Name": "BANKVIEW",
+   "Resident_Count": "5,211"
+ },
+ {
+   "Community_Name": "CRESTMONT",
+   "Resident_Count": "1,514"
+ },
+ {
+   "Community_Name": "GREENVIEW",
+   "Resident_Count": "1,999"
+ },
+ {
+   "Community_Name": "MARTINDALE",
+   "Resident_Count": "14,905"
+ },
+ {
+   "Community_Name": "NORTH GLENMORE PARK",
+   "Resident_Count": "2,375"
+ },
+ {
+   "Community_Name": "PARKHILL",
+   "Resident_Count": "1,693"
+ },
+ {
+   "Community_Name": "POINT MCKAY",
+   "Resident_Count": "1,372"
+ },
+ {
+   "Community_Name": "QUEENSLAND",
+   "Resident_Count": "4,683"
+ },
+ {
+   "Community_Name": "RANCHLANDS",
+   "Resident_Count": "7,566"
+ },
+ {
+   "Community_Name": "RED CARPET",
+   "Resident_Count": "1,596"
+ },
+ {
+   "Community_Name": "RUTLAND PARK",
+   "Resident_Count": "2,303"
+ },
+ {
+   "Community_Name": "SANDSTONE VALLEY",
+   "Resident_Count": "5,904"
+ },
+ {
+   "Community_Name": "WHITEHORN",
+   "Resident_Count": "11,955"
+ },
+ {
+   "Community_Name": "WILLOW PARK",
+   "Resident_Count": "5,295"
+ },
+ {
+   "Community_Name": "WINDSOR PARK",
+   "Resident_Count": "4,458"
+ },
+ {
+   "Community_Name": "WINSTON HEIGHTS/MOUNTVIEW",
+   "Resident_Count": "3,744"
+ },
+ {
+   "Community_Name": "WOODBINE",
+   "Resident_Count": "8,837"
+ },
+ {
+   "Community_Name": "02E",
+   "Resident_Count": "970"
+ },
+ {
+   "Community_Name": "WOODLANDS",
+   "Resident_Count": "5,877"
+ },
+ {
+   "Community_Name": "02K",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "03I",
+   "Resident_Count": ""
+ },
+ {
+   "Community_Name": "VARSITY",
+   "Resident_Count": "12,691"
+ },
+ {
+   "Community_Name": "12A",
+   "Resident_Count": "114"
+ },
+ {
+   "Community_Name": "03W",
+   "Resident_Count": "54"
+ },
+ {
+   "Community_Name": "01C",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "01F",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "01K",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "10A",
+   "Resident_Count": ""
+ },
+ {
+   "Community_Name": "10E",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "12A",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "14V",
+   "Resident_Count": ""
+ },
+ {
+   "Community_Name": "ABBEYDALE",
+   "Resident_Count": "5,957"
+ },
+ {
+   "Community_Name": "ACADIA",
+   "Resident_Count": "10,520"
+ },
+ {
+   "Community_Name": "ALBERT PARK/RADISSON HEIGHTS",
+   "Resident_Count": "6,997"
+ },
+ {
+   "Community_Name": "ALYTH/BONNYBROOK",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "APPLEWOOD PARK",
+   "Resident_Count": "6,981"
+ },
+ {
+   "Community_Name": "ARBOUR LAKE",
+   "Resident_Count": "10,619"
+ },
+ {
+   "Community_Name": "ASPEN WOODS",
+   "Resident_Count": "9,446"
+ },
+ {
+   "Community_Name": "AURORA BUSINESS PARK",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "BANKVIEW",
+   "Resident_Count": "5,256"
+ },
+ {
+   "Community_Name": "BAYVIEW",
+   "Resident_Count": "751"
+ },
+ {
+   "Community_Name": "BEDDINGTON HEIGHTS",
+   "Resident_Count": "11,514"
+ },
+ {
+   "Community_Name": "BELTLINE",
+   "Resident_Count": "25,129"
+ },
+ {
+   "Community_Name": "SOUTH CALGARY",
+   "Resident_Count": "4,154"
+ },
+ {
+   "Community_Name": "BONAVISTA DOWNS",
+   "Resident_Count": "928"
+ },
+ {
+   "Community_Name": "BOWNESS",
+   "Resident_Count": "11,150"
+ },
+ {
+   "Community_Name": "BRAESIDE",
+   "Resident_Count": "5,805"
+ },
+ {
+   "Community_Name": "BRENTWOOD",
+   "Resident_Count": "7,267"
+ },
+ {
+   "Community_Name": "BRIDGELAND/RIVERSIDE",
+   "Resident_Count": "6,835"
+ },
+ {
+   "Community_Name": "BRIDLEWOOD",
+   "Resident_Count": "12,641"
+ },
+ {
+   "Community_Name": "CALGARY INTERNATIONAL AIRPORT",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "CANYON MEADOWS",
+   "Resident_Count": "7,624"
+ },
+ {
+   "Community_Name": "CAPITOL HILL",
+   "Resident_Count": "4,744"
+ },
+ {
+   "Community_Name": "CARRINGTON",
+   "Resident_Count": "572"
+ },
+ {
+   "Community_Name": "CASTLERIDGE",
+   "Resident_Count": "6,127"
+ },
+ {
+   "Community_Name": "CEDARBRAE",
+   "Resident_Count": "6,094"
+ },
+ {
+   "Community_Name": "CHAPARRAL",
+   "Resident_Count": "12,654"
+ },
+ {
+   "Community_Name": "CHARLESWOOD",
+   "Resident_Count": "3,569"
+ },
+ {
+   "Community_Name": "CHINATOWN",
+   "Resident_Count": "2,471"
+ },
+ {
+   "Community_Name": "CHINOOK PARK",
+   "Resident_Count": "1,662"
+ },
+ {
+   "Community_Name": "CHRISTIE PARK",
+   "Resident_Count": "2,128"
+ },
+ {
+   "Community_Name": "CITADEL",
+   "Resident_Count": "10,077"
+ },
+ {
+   "Community_Name": "CITYSCAPE",
+   "Resident_Count": "3,104"
+ },
+ {
+   "Community_Name": "CLIFF BUNGALOW",
+   "Resident_Count": "1,895"
+ },
+ {
+   "Community_Name": "COACH HILL",
+   "Resident_Count": "3,244"
+ },
+ {
+   "Community_Name": "COLLINGWOOD",
+   "Resident_Count": "2,249"
+ },
+ {
+   "Community_Name": "COPPERFIELD",
+   "Resident_Count": "13,823"
+ },
+ {
+   "Community_Name": "CORAL SPRINGS",
+   "Resident_Count": "5,801"
+ },
+ {
+   "Community_Name": "COUGAR RIDGE",
+   "Resident_Count": "6,997"
+ },
+ {
+   "Community_Name": "COUNTRY HILLS VILLAGE",
+   "Resident_Count": "2,597"
+ },
+ {
+   "Community_Name": "COUNTRY HILLS",
+   "Resident_Count": "3,767"
+ },
+ {
+   "Community_Name": "COVENTRY HILLS",
+   "Resident_Count": "17,667"
+ },
+ {
+   "Community_Name": "VALLEYFIELD",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "CRESCENT HEIGHTS",
+   "Resident_Count": "6,620"
+ },
+ {
+   "Community_Name": "CRESTMONT",
+   "Resident_Count": "1,690"
+ },
+ {
+   "Community_Name": "CURRIE BARRACKS",
+   "Resident_Count": "1,262"
+ },
+ {
+   "Community_Name": "DALHOUSIE",
+   "Resident_Count": "8,940"
+ },
+ {
+   "Community_Name": "DEER RIDGE",
+   "Resident_Count": "3,973"
+ },
+ {
+   "Community_Name": "DEERFOOT BUSINESS CENTRE",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "DIAMOND COVE",
+   "Resident_Count": "690"
+ },
+ {
+   "Community_Name": "DISCOVERY RIDGE",
+   "Resident_Count": "4,280"
+ },
+ {
+   "Community_Name": "DOUGLASDALE/GLEN",
+   "Resident_Count": "12,881"
+ },
+ {
+   "Community_Name": "DOVER",
+   "Resident_Count": "10,351"
+ },
+ {
+   "Community_Name": "DOWNTOWN COMMERCIAL CORE",
+   "Resident_Count": "8,683"
+ },
+ {
+   "Community_Name": "DOWNTOWN EAST VILLAGE",
+   "Resident_Count": "3,893"
+ },
+ {
+   "Community_Name": "DOWNTOWN WEST END",
+   "Resident_Count": "2,785"
+ },
+ {
+   "Community_Name": "EASTFIELD",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "EAU CLAIRE",
+   "Resident_Count": "2,030"
+ },
+ {
+   "Community_Name": "EDGEMONT",
+   "Resident_Count": "15,395"
+ },
+ {
+   "Community_Name": "ELBOW PARK",
+   "Resident_Count": "3,342"
+ },
+ {
+   "Community_Name": "ERIN WOODS",
+   "Resident_Count": "7,049"
+ },
+ {
+   "Community_Name": "ERLTON",
+   "Resident_Count": "1,270"
+ },
+ {
+   "Community_Name": "EVANSTON",
+   "Resident_Count": "17,685"
+ },
+ {
+   "Community_Name": "FAIRVIEW INDUSTRIAL",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "FAIRVIEW",
+   "Resident_Count": "3,646"
+ },
+ {
+   "Community_Name": "FISH CREEK PARK",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "FOOTHILLS",
+   "Resident_Count": "317"
+ },
+ {
+   "Community_Name": "FOREST HEIGHTS",
+   "Resident_Count": "6,496"
+ },
+ {
+   "Community_Name": "FOREST LAWN INDUSTRIAL",
+   "Resident_Count": "123"
+ },
+ {
+   "Community_Name": "FRANKLIN",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "GARRISON GREEN",
+   "Resident_Count": "2,060"
+ },
+ {
+   "Community_Name": "GLAMORGAN",
+   "Resident_Count": "6,522"
+ },
+ {
+   "Community_Name": "GLENBROOK",
+   "Resident_Count": "7,442"
+ },
+ {
+   "Community_Name": "GREAT PLAINS",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "GREENVIEW INDUSTRIAL PARK",
+   "Resident_Count": "225"
+ },
+ {
+   "Community_Name": "GREENVIEW",
+   "Resident_Count": "1,906"
+ },
+ {
+   "Community_Name": "HAMPTONS",
+   "Resident_Count": "7,382"
+ },
+ {
+   "Community_Name": "HARVEST HILLS",
+   "Resident_Count": "7,420"
+ },
+ {
+   "Community_Name": "HAWKWOOD",
+   "Resident_Count": "9,248"
+ },
+ {
+   "Community_Name": "HAYSBORO",
+   "Resident_Count": "7,080"
+ },
+ {
+   "Community_Name": "HIGHFIELD",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "HIGHLAND PARK",
+   "Resident_Count": "3,838"
+ },
+ {
+   "Community_Name": "HIGHWOOD",
+   "Resident_Count": "2,258"
+ },
+ {
+   "Community_Name": "HORIZON",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+   "Resident_Count": "2,798"
+ },
+ {
+   "Community_Name": "HUNTINGTON HILLS",
+   "Resident_Count": "13,420"
+ },
+ {
+   "Community_Name": "INGLEWOOD",
+   "Resident_Count": "4,024"
+ },
+ {
+   "Community_Name": "KELVIN GROVE",
+   "Resident_Count": "2,305"
+ },
+ {
+   "Community_Name": "KILLARNEY/GLENGARRY",
+   "Resident_Count": "7,685"
+ },
+ {
+   "Community_Name": "KINCORA",
+   "Resident_Count": "6,889"
+ },
+ {
+   "Community_Name": "KINGSLAND",
+   "Resident_Count": "4,688"
+ },
+ {
+   "Community_Name": "LAKE BONAVISTA",
+   "Resident_Count": "10,293"
+ },
+ {
+   "Community_Name": "LAKEVIEW",
+   "Resident_Count": "5,355"
+ },
+ {
+   "Community_Name": "LEGACY",
+   "Resident_Count": "6,420"
+ },
+ {
+   "Community_Name": "LINCOLN PARK",
+   "Resident_Count": "2,617"
+ },
+ {
+   "Community_Name": "LIVINGSTON",
+   "Resident_Count": "1,477"
+ },
+ {
+   "Community_Name": "LOWER MOUNT ROYAL",
+   "Resident_Count": "3,457"
+ },
+ {
+   "Community_Name": "MACEWAN GLEN",
+   "Resident_Count": "4,754"
+ },
+ {
+   "Community_Name": "MANCHESTER INDUSTRIAL",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "MANCHESTER",
+   "Resident_Count": "1,025"
+ },
+ {
+   "Community_Name": "MARLBOROUGH PARK",
+   "Resident_Count": "8,523"
+ },
+ {
+   "Community_Name": "MARLBOROUGH",
+   "Resident_Count": "9,162"
+ },
+ {
+   "Community_Name": "VARSITY",
+   "Resident_Count": "12,691"
+ },
+ {
+   "Community_Name": "MCCALL",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "MCKENZIE LAKE",
+   "Resident_Count": "13,406"
+ },
+ {
+   "Community_Name": "MCKENZIE TOWNE",
+   "Resident_Count": "18,283"
+ },
+ {
+   "Community_Name": "MERIDIAN",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "MIDNAPORE",
+   "Resident_Count": "7,270"
+ },
+ {
+   "Community_Name": "MILLRISE",
+   "Resident_Count": "6,900"
+ },
+ {
+   "Community_Name": "MISSION",
+   "Resident_Count": "4,598"
+ },
+ {
+   "Community_Name": "MONTEREY PARK",
+   "Resident_Count": "10,372"
+ },
+ {
+   "Community_Name": "MONTGOMERY",
+   "Resident_Count": "4,515"
+ },
+ {
+   "Community_Name": "MOUNT PLEASANT",
+   "Resident_Count": "5,889"
+ },
+ {
+   "Community_Name": "NEW BRIGHTON",
+   "Resident_Count": "13,103"
+ },
+ {
+   "Community_Name": "NORTH AIRWAYS",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "NORTH GLENMORE PARK",
+   "Resident_Count": "2,391"
+ },
+ {
+   "Community_Name": "NOSE HILL PARK",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "OGDEN SHOPS",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "OGDEN",
+   "Resident_Count": "8,576"
+ },
+ {
+   "Community_Name": "PALLISER",
+   "Resident_Count": "3,672"
+ },
+ {
+   "Community_Name": "PANORAMA HILLS",
+   "Resident_Count": "25,710"
+ },
+ {
+   "Community_Name": "PARKDALE",
+   "Resident_Count": "2,566"
+ },
+ {
+   "Community_Name": "PARKHILL",
+   "Resident_Count": "1,691"
+ },
+ {
+   "Community_Name": "PARKLAND",
+   "Resident_Count": "3,660"
+ },
+ {
+   "Community_Name": "PEGASUS",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "PENBROOKE MEADOWS",
+   "Resident_Count": "8,554"
+ },
+ {
+   "Community_Name": "PINERIDGE",
+   "Resident_Count": "10,022"
+ },
+ {
+   "Community_Name": "POINT MCKAY",
+   "Resident_Count": "1,343"
+ },
+ {
+   "Community_Name": "PUMP HILL",
+   "Resident_Count": "1,640"
+ },
+ {
+   "Community_Name": "QUEENSLAND",
+   "Resident_Count": "4,743"
+ },
+ {
+   "Community_Name": "RAMSAY",
+   "Resident_Count": "2,158"
+ },
+ {
+   "Community_Name": "RANCHLANDS",
+   "Resident_Count": "7,607"
+ },
+ {
+   "Community_Name": "RED CARPET",
+   "Resident_Count": "1,594"
+ },
+ {
+   "Community_Name": "REDSTONE",
+   "Resident_Count": "5,848"
+ },
+ {
+   "Community_Name": "RENFREW",
+   "Resident_Count": "6,582"
+ },
+ {
+   "Community_Name": "RICHMOND",
+   "Resident_Count": "4,962"
+ },
+ {
+   "Community_Name": "RIDEAU PARK",
+   "Resident_Count": "594"
+ },
+ {
+   "Community_Name": "RIVERBEND",
+   "Resident_Count": "9,244"
+ },
+ {
+   "Community_Name": "ROCKY RIDGE",
+   "Resident_Count": "8,398"
+ },
+ {
+   "Community_Name": "ROSEDALE",
+   "Resident_Count": "1,560"
+ },
+ {
+   "Community_Name": "ROSEMONT",
+   "Resident_Count": "1,254"
+ },
+ {
+   "Community_Name": "ROSSCARROCK",
+   "Resident_Count": "3,625"
+ },
+ {
+   "Community_Name": "ROXBORO",
+   "Resident_Count": "422"
+ },
+ {
+   "Community_Name": "ROYAL VISTA",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "RUNDLE",
+   "Resident_Count": "11,688"
+ },
+ {
+   "Community_Name": "RUTLAND PARK",
+   "Resident_Count": "2,263"
+ },
+ {
+   "Community_Name": "SADDLE RIDGE",
+   "Resident_Count": "22,321"
+ },
+ {
+   "Community_Name": "SANDSTONE VALLEY",
+   "Resident_Count": "5,904"
+ },
+ {
+   "Community_Name": "SCARBORO",
+   "Resident_Count": "931"
+ },
+ {
+   "Community_Name": "SCARBORO/ SUNALTA WEST",
+   "Resident_Count": "401"
+ },
+ {
+   "Community_Name": "SCENIC ACRES",
+   "Resident_Count": "8,067"
+ },
+ {
+   "Community_Name": "SETON",
+   "Resident_Count": "1,134"
+ },
+ {
+   "Community_Name": "SHAGANAPPI",
+   "Resident_Count": "1,626"
+ },
+ {
+   "Community_Name": "SHAWNEE SLOPES",
+   "Resident_Count": "1,911"
+ },
+ {
+   "Community_Name": "SHAWNESSY",
+   "Resident_Count": "9,368"
+ },
+ {
+   "Community_Name": "SHEPARD INDUSTRIAL",
+   "Resident_Count": "255"
+ },
+ {
+   "Community_Name": "SHERWOOD",
+   "Resident_Count": "6,246"
+ },
+ {
+   "Community_Name": "SIGNAL HILL",
+   "Resident_Count": "13,395"
+ },
+ {
+   "Community_Name": "SILVER SPRINGS",
+   "Resident_Count": "8,679"
+ },
+ {
+   "Community_Name": "SKYLINE WEST",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "SKYVIEW RANCH",
+   "Resident_Count": "11,707"
+ },
+ {
+   "Community_Name": "SOUTH AIRWAYS",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "SOUTH FOOTHILLS",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "SOUTHVIEW",
+   "Resident_Count": "1,805"
+ },
+ {
+   "Community_Name": "SOUTHWOOD",
+   "Resident_Count": "6,246"
+ },
+ {
+   "Community_Name": "SPRINGBANK HILL",
+   "Resident_Count": "9,943"
+ },
+ {
+   "Community_Name": "SPRUCE CLIFF",
+   "Resident_Count": "4,673"
+ },
+ {
+   "Community_Name": "STONEY 1",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "STONEY 4",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "STRATHCONA PARK",
+   "Resident_Count": "6,855"
+ },
+ {
+   "Community_Name": "SUNALTA",
+   "Resident_Count": "3,239"
+ },
+ {
+   "Community_Name": "SUNDANCE",
+   "Resident_Count": "9,736"
+ },
+ {
+   "Community_Name": "SUNNYSIDE",
+   "Resident_Count": "4,230"
+ },
+ {
+   "Community_Name": "SUNRIDGE",
+   "Resident_Count": "11"
+ },
+ {
+   "Community_Name": "TARADALE",
+   "Resident_Count": "19,026"
+ },
+ {
+   "Community_Name": "TEMPLE",
+   "Resident_Count": "10,977"
+ },
+ {
+   "Community_Name": "THORNCLIFFE",
+   "Resident_Count": "8,788"
+ },
+ {
+   "Community_Name": "TUSCANY",
+   "Resident_Count": "19,884"
+ },
+ {
+   "Community_Name": "TUXEDO PARK",
+   "Resident_Count": "5,326"
+ },
+ {
+   "Community_Name": "UNIVERSITY DISTRICT",
+   "Resident_Count": "705"
+ },
+ {
+   "Community_Name": "UNIVERSITY HEIGHTS",
+   "Resident_Count": "2,921"
+ },
+ {
+   "Community_Name": "UNIVERSITY OF CALGARY",
+   "Resident_Count": "2,367"
+ },
+ {
+   "Community_Name": "UPPER MOUNT ROYAL",
+   "Resident_Count": "2,478"
+ },
+ {
+   "Community_Name": "VALLEYFIELD",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "VARSITY",
+   "Resident_Count": "12,874"
+ },
+ {
+   "Community_Name": "VISTA HEIGHTS",
+   "Resident_Count": "2,370"
+ },
+ {
+   "Community_Name": "WALDEN",
+   "Resident_Count": "6,228"
+ },
+ {
+   "Community_Name": "WEST HILLHURST",
+   "Resident_Count": "6,447"
+ },
+ {
+   "Community_Name": "WEST SPRINGS",
+   "Resident_Count": "10,758"
+ },
+ {
+   "Community_Name": "WESTWINDS",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "WHITEHORN",
+   "Resident_Count": "12,019"
+ },
+ {
+   "Community_Name": "WILDWOOD",
+   "Resident_Count": "2,709"
+ },
+ {
+   "Community_Name": "WILLOW PARK",
+   "Resident_Count": "5,328"
+ },
+ {
+   "Community_Name": "WINDSOR PARK",
+   "Resident_Count": "4,584"
+ },
+ {
+   "Community_Name": "WINSTON HEIGHTS/MOUNTVIEW",
+   "Resident_Count": "3,635"
+ },
+ {
+   "Community_Name": "WOODBINE",
+   "Resident_Count": "8,866"
+ },
+ {
+   "Community_Name": "12J",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "BEDDINGTON HEIGHTS",
+   "Resident_Count": "11,514"
+ },
+ {
+   "Community_Name": "CORAL SPRINGS",
+   "Resident_Count": "5,801"
+ },
+ {
+   "Community_Name": "ELBOW PARK",
+   "Resident_Count": "3,342"
+ },
+ {
+   "Community_Name": "GARRISON GREEN",
+   "Resident_Count": "2,060"
+ },
+ {
+   "Community_Name": "MANCHESTER",
+   "Resident_Count": "1,025"
+ },
+ {
+   "Community_Name": "MARTINDALE",
+   "Resident_Count": "14,245"
+ },
+ {
+   "Community_Name": "PENBROOKE MEADOWS",
+   "Resident_Count": "8,554"
+ },
+ {
+   "Community_Name": "PUMP HILL",
+   "Resident_Count": "1,640"
+ },
+ {
+   "Community_Name": "RUTLAND PARK",
+   "Resident_Count": "2,263"
+ },
+ {
+   "Community_Name": "02E",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "12A",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "12B",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "12A",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "GREENVIEW",
+   "Resident_Count": "1,906"
+ },
+ {
+   "Community_Name": "NORTH GLENMORE PARK",
+   "Resident_Count": "2,391"
+ },
+ {
+   "Community_Name": "05C",
+   "Resident_Count": ""
+ },
+ {
+   "Community_Name": "12A",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "BEL-AIRE",
+   "Resident_Count": "390"
+ },
+ {
+   "Community_Name": "02E",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "03W",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "03I",
+   "Resident_Count": ""
+ },
+ {
+   "Community_Name": "MEADOWLARK PARK",
+   "Resident_Count": "644"
+ },
+ {
+   "Community_Name": "WOODLANDS",
+   "Resident_Count": "6,002"
+ },
+ {
+   "Community_Name": "12J",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "KELVIN GROVE",
+   "Resident_Count": "2,305"
+ },
+ {
+   "Community_Name": "13B",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "09O",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "HORIZON",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "01C",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "HORIZON",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "12A",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "WOODLANDS",
+   "Resident_Count": "6,002"
+ },
+ {
+   "Community_Name": "CORNERSTONE",
+   "Resident_Count": "2,648"
+ },
+ {
+   "Community_Name": "WINSTON HEIGHTS/MOUNTVIEW",
+   "Resident_Count": "3,635"
+ },
+ {
+   "Community_Name": "09O",
+   "Resident_Count": "0"
+ },
+ {
+   "Community_Name": "PALLISER",
+   "Resident_Count": "3,484"
+ }
+]
